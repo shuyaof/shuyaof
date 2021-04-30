@@ -39,5 +39,5 @@
 
 
 [website]: https://vera-fan.com/
-[linkedin]: https://www.linkedin.com/in/vera-shuyao-fan-60428426/
+[linkedin]: https://www.linkedin.com/in/vera-fan/
 
