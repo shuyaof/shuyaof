@@ -1,8 +1,10 @@
-### 👋 Hi there, I’m Vera...
-- 👀 I’m currently an industrial engineer interested in data visualization
-- 🌱 I’m currently learning Data Analytics in Columbia University Data Boot Camp
-- 💞️ I’m looking to collaborate on projects on Python and SQL database
-- 📫 you can reach me at shuyao.fan@gmail.com
+### Hello I’m Vera 🌟
+Welcome to a glimpse into my data journey which took flight in 2020, during my initial days at the bootcamp at Columbia University. This space is a testament to my continuous learning and growth in the fascinating world of data.
+I'm eager to connect with like-minded individuals to learn and share insights. Here's a snapshot of my current focus and interests:
+- 🔍  Current Status: Actively seeking opportunities where I can immerse myself in data visualization and storytelling, with a keen interest in translating complex data into insightful narratives.
+- 🌿 Learning Endeavors: Further honing my skills at Carnegie Mellon University, with a focus on Business Intelligence and Data Analytics.
+- 🤝 Collaboration Interests: I am open to joining forces on impactful projects leveraging Python, SQL, and R, especially within the healthcare domain, utilizing public data resources, utlized advanced modeling techniques.
+- 📫 you can reach me at shuyao.fan@gmail.com or https://www.linkedin.com/in/vera-fan/
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -13,6 +15,7 @@
 
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="Tensorflow" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" />
 <img align="left" alt="VSCode" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Jupyter Notebook" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png"
