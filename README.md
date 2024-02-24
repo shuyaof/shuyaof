@@ -1,10 +1,6 @@
 ### Hello I’m Vera 🌟
 Welcome to a glimpse into my data journey which took flight in 2020, during my initial days at the bootcamp at Columbia University. This space is a testament to my continuous learning and growth in the fascinating world of data.
-I'm eager to connect with like-minded individuals to learn and share insights. Here's a snapshot of my current focus and interests:
-- 🔍  Current Status: Actively seeking opportunities where I can immerse myself in data visualization and storytelling, with a keen interest in translating complex data into insightful narratives.
-- 🌿 Learning Endeavors: Further honing my skills at Carnegie Mellon University, with a master degree focus on advanced business analysis and data science.
-- 🤝 Collaboration Interests: I am open to joining forces on impactful projects leveraging Python, SQL, and R, especially within the healthcare domain, utilizing public data resources, utlized advanced modeling techniques.
-- 📫 you can reach me at shuyao.fan@gmail.com or https://www.linkedin.com/in/vera-fan/
+I'm eager to connect with like-minded individuals to learn and share insights. 
 
 ### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
